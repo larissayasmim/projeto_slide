@@ -90,6 +90,10 @@ img {
   transform: scale(1);
 }
 
+.custom-controls li:hover {
+  cursor: pointer;
+}
+
 .arrow-nav {
   display: flex;
   justify-content: space-around;
